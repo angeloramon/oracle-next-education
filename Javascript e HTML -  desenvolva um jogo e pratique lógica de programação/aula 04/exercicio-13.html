@@ -1,0 +1,22 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra(texto) {
+        pulaLinha()
+        document.write(texto);
+        
+    }
+
+    var anoMediaFilho = 28
+    var anoDescobrimento = 1500;
+    var anoAtual = 2016;
+    var anoDiferença = anoAtual - anoDescobrimento
+
+    mostra("Passaram-se " + Math.round(anoDiferença / anoMediaFilho) + " gerações.");
+   
+</script>
