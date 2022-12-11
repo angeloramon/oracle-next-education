@@ -18,3 +18,7 @@
 
 ### 07 - Melhorando programa de IMC ####
     Aula aprimora o uso da condicionante "if(){}", mostrando um "if" dentro de outro "if" e a simplificação usando o "&&"
+
+
+### 09 - Jogo de adivinhação ####
+    Aula mostra o uso da função "else" e cria um jogo de adivinhação.
