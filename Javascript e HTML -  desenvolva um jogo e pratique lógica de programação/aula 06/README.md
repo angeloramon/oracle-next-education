@@ -13,3 +13,8 @@
 
 
 ### 05 - Trabalhando com condições ####
+    Aula mostra o usa da condicionante "if(){}"
+
+
+### 07 - Melhorando programa de IMC ####
+    Aula aprimora o uso da condicionante "if(){}", mostrando um "if" dentro de outro "if" e a simplificação usando o "&&"
