@@ -1,7 +1,7 @@
 # Resumo das atividades e resolução dos exercícios da Aula 06 #
 
 ### 01 - Convertendo texto em números ###
-    Aula mostra como converter string em numero com o comando parsetInt()
+    Aula mostra como converter string em numero com o comando "parsetInt()"
 
 
 ### 02 - O total de convidados é... ###
@@ -10,3 +10,6 @@
 
 ### 03 - Insistindo no total de convidados ... ### 
     Maneira correta do código para executar a soma dos convidados da festa, sem concatenação (continuação do exercício 02).
+
+
+### 05 - Trabalhando com condições ####
