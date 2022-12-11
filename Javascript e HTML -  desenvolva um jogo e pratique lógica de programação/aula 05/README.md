@@ -14,3 +14,9 @@
 
 ### Atividade 11 - Interagindo com usuário ###
     Foi mostrado como interagir através da função "prompt", dentro do console do navegador com o usuário.
+
+### Exercício 14 - Qual é o resultado novamente? ###
+    Exercício para saber qual o valor será o retornado. Resposta C - 45.
+
+### Exercício 15 - Agora eu quero ver! ###
+    Exercício para saber o que será exibido na tela com a instrução mostra(resultado). Resposta B - @Flávio (Almeida)@
