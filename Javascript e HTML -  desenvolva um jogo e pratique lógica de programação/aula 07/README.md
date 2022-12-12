@@ -6,3 +6,7 @@
 
 ### 02 - O aluno exagerado ###
     Exercício pede que diminua a quantidade de instruções, utilizando o comando while.
+
+
+### 03 - Todos os números pares de 1 a 100. ###
+    Exercício pede que se crie um código que mostre todos os número pares entre 1 e 100 (ou qualquer ouro limitador).
