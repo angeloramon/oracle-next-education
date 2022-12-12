@@ -22,3 +22,7 @@
 
 ### 06 - O ano de copa que nunca chega! ### 
     Exercício para corrigir código que apresenta um erro.
+
+
+### 07 - Simulando uma tela de login ###
+    Exercício para criar um código para login.
