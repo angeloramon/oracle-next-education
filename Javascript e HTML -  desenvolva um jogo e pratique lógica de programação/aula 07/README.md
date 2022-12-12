@@ -42,3 +42,7 @@
 
 ### 12 - Acumulando valores ###
     Aula mostra forma de acumular valores para usar em uma estrutura de repetição. OBS: esses valores tem que estar FORA da repetição.
+
+
+### 13 - A organizadora de eventos e seu irmão prodígio. ###
+    Exercício para encontrar o erro no código. 
