@@ -33,4 +33,8 @@
 
 
 ### 10 - De while para for! ###
-    Exercício para converter a instrução de "while()" para "for()"
+    Exercício para converter a instrução "while()" para "for()".
+
+
+### 11 - Do for para o while! ###
+    Exercício para converter a instrução "for()" para "while()".
