@@ -26,3 +26,7 @@
 
 ### 07 - Simulando uma tela de login ###
     Exercício para criar um código para login.
+
+
+### 09 - Outra forma de repetir ###
+    Aula mostra como fazer repetições com o "for()", que é composto por 3 espaços, separados por ";". Foi mostrado também o uso do "++"
