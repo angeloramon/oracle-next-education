@@ -13,4 +13,8 @@
 
 
 ### 04 - Todos os números entre 30 a 40, exceto 33 e 37! ###
-    Exercício para criarmos um código que exiba uma faixa de número, mas com exceções.
+    Exercício para criar um código que exiba uma faixa de número, mas com exceções.
+
+
+### 05 - Todos os números de 20 a 0. ###    
+    Exercício para criar um código que exiba de forma decrescente uma faixa de números, no caso de 20 até 0
