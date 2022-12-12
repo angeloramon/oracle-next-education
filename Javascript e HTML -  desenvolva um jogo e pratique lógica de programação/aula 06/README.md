@@ -26,3 +26,7 @@
 
 ### 11 - Onde está o erro de Braga? ###
     Exercicio mostra programa que sempre da o mesmo resultado, faltava o "==" dentro da concicionante "if".
+
+
+### 12 - Será que posso dirigir?  ###    
+    Exercício pede para fazermos um programa para identificar se a pessoa pode dirigir ou não.
