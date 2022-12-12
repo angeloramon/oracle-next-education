@@ -46,3 +46,10 @@
 
 ### 13 - A organizadora de eventos e seu irmão prodígio. ###
     Exercício para encontrar o erro no código. 
+
+
+### 15 - Interrompendo uma repetição ###
+    Aula mostra como interromper um laço de repetição com o comando "break".
+
+
+###   ###
