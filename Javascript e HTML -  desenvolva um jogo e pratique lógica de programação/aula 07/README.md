@@ -38,3 +38,7 @@
 
 ### 11 - Do for para o while! ###
     Exercício para converter a instrução "for()" para "while()".
+
+
+### 12 - Acumulando valores ###
+    Aula mostra forma de acumular valores para usar em uma estrutura de repetição. OBS: esses valores tem que estar FORA da repetição.
