@@ -30,3 +30,7 @@
 
 ### 09 - Outra forma de repetir ###
     Aula mostra como fazer repetições com o "for()", que é composto por 3 espaços. Foi mostrado também o uso do pos incremento"++"
+
+
+### 10 - De while para for! ###
+    Exercício para converter a instrução de "while()" para "for()"
