@@ -30,3 +30,7 @@
 
 ### 12 - Será que posso dirigir?  ###    
     Exercício pede para fazermos um programa para identificar se a pessoa pode dirigir ou não.
+
+
+### 13 - Consolidando seu conhecimento 1  ###
+    Desafio para fazer um jogo de adivinhação.
