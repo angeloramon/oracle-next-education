@@ -22,3 +22,7 @@
 
 ### 09 - Jogo de adivinhação ####
     Aula mostra o uso da função "else" e cria um jogo de adivinhação.
+
+
+### 11 - Onde está o erro de Braga? ###
+    Exercicio mostra programa que sempre da o mesmo resultado, faltava o "==" dentro da concicionante "if".
