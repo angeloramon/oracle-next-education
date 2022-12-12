@@ -29,4 +29,4 @@
 
 
 ### 09 - Outra forma de repetir ###
-    Aula mostra como fazer repetições com o "for()", que é composto por 3 espaços, separados por ";". Foi mostrado também o uso do "++"
+    Aula mostra como fazer repetições com o "for()", que é composto por 3 espaços. Foi mostrado também o uso do pos incremento"++"
