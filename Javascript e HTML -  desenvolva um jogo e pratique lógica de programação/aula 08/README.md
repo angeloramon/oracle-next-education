@@ -18,3 +18,7 @@
 
 ### 04 - Exibindo em um alert o nome digitado ###
     Exercício pede para criar um alerta com o que foi inserido na tag <input/>.
+
+
+### 05 - Melhorando a usabilidade ####
+    Aula mostra como limpar o campo <input/> com o comando "input.value = "";" (uma string vazia) e usar o comando "input.focus();".
