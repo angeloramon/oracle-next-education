@@ -21,4 +21,4 @@
 
 
 ### 05 - Melhorando a usabilidade ####
-    Aula mostra como limpar o campo <input/> com o comando "input.value = "";" (uma string vazia) e usar o comando "input.focus();".
+    Aula mostra como limpar o campo da tag <input/> com o comando "input.value = "";" (uma string vazia) e usar o comando "input.focus();" para deixar o campo da tag <input/> destacado e pronto para receber o dado.
