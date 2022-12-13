@@ -6,3 +6,7 @@
 
 ### 05 - Meu código nunca é executado? ###  
     Exercício para encontrar erro no código, que não executava.
+
+
+### 06 - Ih, fiquei de fora! ###
+    Exercício para encontrar erro no código. Atentar na declaração da variável na função "for(){}", tem que iniciar em 0.
