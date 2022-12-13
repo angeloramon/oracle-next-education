@@ -10,3 +10,7 @@
     *Mostra, por fim, como acessar a tag "<button></button>" a uma função (no caso "verifica()" ):
         - declaras uma variável chamada "button" e daremos ao "document.querySelector()" o parâmetro button - o nome da tag HTML;
         - utiliza o "button.onclick()" para associar ao botão a execução da função "verifica()". Para isso, chama-se a função "verifica()" SEM os parênteses, pois queremos que as informações da função fique vinculada ao clique do botão (on click). O clicar no botão substitui o comando da função (os"()").
+
+
+### 03 - Dando tchau no clique de um botão ####     
+    Exercício pede para vincular o botão criado com um determinada função.
