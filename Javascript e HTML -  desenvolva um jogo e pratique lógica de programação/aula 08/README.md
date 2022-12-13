@@ -14,3 +14,7 @@
 
 ### 03 - Dando tchau no clique de um botão ####     
     Exercício pede para vincular o botão criado com um determinada função.
+
+
+### 04 - Exibindo em um alert o nome digitado ###
+    Exercício pede para criar um alerta com o que foi inserido na tag <input/>.
