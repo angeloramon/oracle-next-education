@@ -11,4 +11,6 @@
 ### 06 - Nossa primeira obra de arte. Será? ###
     Aula continua a explicação de como desenha bandeira.
 
-    
+
+### 07 - A vida não é só feita de retângulos! ###
+    Aula mostra como traçar linhas e desenhar um triângulo.
