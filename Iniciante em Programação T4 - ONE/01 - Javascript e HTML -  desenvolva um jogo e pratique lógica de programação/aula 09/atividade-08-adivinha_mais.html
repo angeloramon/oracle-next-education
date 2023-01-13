@@ -8,9 +8,6 @@
     function sorteia() {
        return Math.round(Math.random() * 10);
     }
-
-    var segredos = sorteiaNumeros(3);   
-    console.log(segredos);
     
     function sorteiaNumeros(quantidade) {
 
@@ -38,13 +35,16 @@
                            numero++;
                      }
               }
-
         }
 
         return segredos;
 
     }
 
+    var segredos = sorteiaNumeros(3);   
+
+    console.log(segredos);
+       //"console.log()" exibe o dado dos () somente no CONSOLE do navegador.
     
     var input = document.querySelector("input");
     input.focus();
