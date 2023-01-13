@@ -18,3 +18,7 @@
 
 ### 08 - Tem espaço para círculo também? ###
     Aula ensina como desenhar um círculo.
+
+
+### 09 - A cara do Creeper. ###
+    Exercício para criar um Creeper do Minecraft.
