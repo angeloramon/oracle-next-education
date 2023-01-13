@@ -6,3 +6,9 @@
 
 ### 04 - Desenhando com um pincel ###
     Aula mostra como desenhar usando um pincel, usando canvas e alterando a cor.
+
+
+### 06 - Nossa primeira obra de arte. Será? ###
+    Aula continua a explicação de como desenha bandeira.
+
+    
