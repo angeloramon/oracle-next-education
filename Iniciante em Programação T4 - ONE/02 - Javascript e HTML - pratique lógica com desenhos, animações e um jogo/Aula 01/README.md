@@ -14,3 +14,7 @@
 
 ### 07 - A vida não é só feita de retângulos! ###
     Aula mostra como traçar linhas e desenhar um triângulo.
+
+
+### 08 - Tem espaço para círculo também? ###
+    Aula ensina como desenhar um círculo.
