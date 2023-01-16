@@ -1,8 +1,7 @@
-# Resumo das atividades e resolução dos exercícios da Aula 01 #
+# Resumo das atividades e resolução dos exercícios da Aula 02 #
 
-### 01 - Armazenando muitos dados ###
-    Aula mostra como usar o array junto com a função "for(){}"
-
+### 01 - Repetir código não rola, não é mesmo? ###
+    Aula mostra como criar bordas,para fazer a distinção entre desenhos.
 
 ### 05 - Meu código nunca é executado? ###  
     Exercício para encontrar erro no código, que não executava.
