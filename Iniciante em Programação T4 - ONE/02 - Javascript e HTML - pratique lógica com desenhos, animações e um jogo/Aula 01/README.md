@@ -26,3 +26,7 @@
 
 ### 11 - Esquadro ###
     Exercício para desenhar um esquadro.
+
+
+### 12 - Ordem e Progresso ###
+    Exercício para desenhar a bandeira do Brasil.
