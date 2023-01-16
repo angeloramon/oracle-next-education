@@ -20,5 +20,9 @@
     Aula ensina como desenhar um círculo.
 
 
-### 09 - A cara do Creeper. ###
+### 10 - A cara do Creeper. ###
     Exercício para criar um Creeper do Minecraft.
+
+
+### 11 - Esquadro ###
+    Exercício para desenhar um esquadro.
