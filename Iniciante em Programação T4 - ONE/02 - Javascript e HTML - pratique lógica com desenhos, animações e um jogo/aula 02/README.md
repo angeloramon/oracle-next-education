@@ -14,3 +14,7 @@
 
 ### 08 - Uma inofensiva flor… ###
     Exercício para desenhar uma flor, utilizando funções para desenhar círculos e usando como referência um círculo central.
+
+
+### 09 - Frações. ###
+    Exercício para criar uma barra de quadrados que represente uma fração. É demonstrado também como se "desenha" um texto. 
