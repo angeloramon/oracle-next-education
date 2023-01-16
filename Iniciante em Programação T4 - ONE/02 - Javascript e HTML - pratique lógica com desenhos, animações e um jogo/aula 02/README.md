@@ -3,8 +3,8 @@
 ### 01 - Repetir código não rola, não é mesmo? ###
     Aula mostra como criar bordas,para fazer a distinção entre desenhos.
 
-### 05 - Meu código nunca é executado? ###  
-    Exercício para encontrar erro no código, que não executava.
+### 03 - Uma função mais genérica ###  
+    Aula mostra como usar funções COM PARÂMETROS para facilitar e diminuir a escrita do código.
 
 
 ### 06 - Ih, fiquei de fora! ###
