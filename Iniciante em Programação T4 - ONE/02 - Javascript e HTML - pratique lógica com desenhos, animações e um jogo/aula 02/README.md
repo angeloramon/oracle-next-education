@@ -18,3 +18,7 @@
 
 ### 09 - Frações. ###
     Exercício para criar uma barra de quadrados que represente uma fração. É demonstrado também como se "desenha" um texto. 
+
+
+### 10 - Gráfico de barras. ###
+    Exercício para desenhar um gráfico de barras, com dados diferentes para cada ano.
