@@ -3,6 +3,7 @@
 ### 01 - Repetir código não rola, não é mesmo? ###
     Aula mostra como criar bordas,para fazer a distinção entre desenhos.
 
+
 ### 03 - Uma função mais genérica ###  
     Aula mostra como usar funções COM PARÂMETROS para facilitar e diminuir a escrita do código.
 
@@ -11,3 +12,5 @@
     Aula mostra como criar repetições (loops) com o "while" e o "for".
 
 
+### 08 - Uma inofensiva flor… ###
+    Exercício para desenhar uma flor, utilizando funções para desenhar círculos e usando como referência um círculo central.
