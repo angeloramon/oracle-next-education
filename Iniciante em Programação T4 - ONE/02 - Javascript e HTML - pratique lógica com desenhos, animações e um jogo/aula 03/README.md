@@ -10,3 +10,7 @@
 
 ### 04 - Trocando de cor ###
     Execício para desenvolver um código que desenhe circulos com o clique esquerdo do mouse e troque a cor com o clique direito.
+
+
+### 05 - Era uma vez uma bolinha que virou um bolão! ###
+    Exercício para alterar o tamanho do círculo quando se aperta o "shift".
