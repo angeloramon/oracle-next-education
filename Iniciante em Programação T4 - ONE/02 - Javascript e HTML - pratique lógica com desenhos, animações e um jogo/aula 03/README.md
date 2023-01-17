@@ -14,3 +14,7 @@
 
 ### 05 - Era uma vez uma bolinha que virou um bolão! ###
     Exercício para alterar o tamanho do círculo quando se aperta o "shift".
+
+
+### 06 - Era uma vez um bolão que quase explodiu! ###
+    Exercício para ir semelhante ao anterior, mas para ir aumentando o tamanho do circulo a cada clique com o "shift" pressionado. a diferença está em retirar a variável "raio" de dentro função, para que ela volte ao valor inicial de "10".
