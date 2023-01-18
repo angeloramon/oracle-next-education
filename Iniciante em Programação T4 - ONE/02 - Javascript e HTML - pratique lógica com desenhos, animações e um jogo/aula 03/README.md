@@ -26,3 +26,7 @@
 
 ### 08 - Desenhando com o mouse ###
     Atividade ensina como desenhar segurando o clique do mouse, habilitando os eventos "onmousemove", "onmousedown" e "onmouseup".
+
+
+### 09 - Funções anônimas ###
+    Atividade mostra como atribuir funções anônimas diretamente a uma variável ou a uma propriedade.
