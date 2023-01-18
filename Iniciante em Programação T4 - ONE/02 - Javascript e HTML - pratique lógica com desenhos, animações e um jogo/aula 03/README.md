@@ -34,3 +34,7 @@
 
 ### 10 - Desenhando com o mouse com infinitas cores ###
     Exercicio para desenhar usando um paleta de cores, através do "document.querySelector" e do "paleta.value".
+
+
+### 11 - Acertando o alvo ###  
+    Exercício para mostrar um "alert" para todas as vezes em que o alvo for acertado.
