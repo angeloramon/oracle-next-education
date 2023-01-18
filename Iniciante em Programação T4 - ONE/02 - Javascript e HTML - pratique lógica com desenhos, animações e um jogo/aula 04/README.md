@@ -26,3 +26,7 @@
 
 ### 08 - Para saber mais - Movendo a bolinha pelo teclado ###
     Atividade mostra como mover a bolinha na tela de acordo com as teclas das setas pressionadas no teclado, atribuindo para cada tecla um moviemnto diferente no eixo "x" e "y".
+
+
+### 09 - Trocando bandeiras ###
+    Atividade ensina como alterna o desenho de duas bandeiras a cada 3 segundos. 
