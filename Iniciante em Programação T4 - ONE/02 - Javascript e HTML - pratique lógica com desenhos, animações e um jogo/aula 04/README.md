@@ -14,3 +14,7 @@
 
 ### 04 - Onde está o erro? ###
     Exercício para encontrar o erro do código apresentado, que estava na variável "var x = 20" ser declarada dentro da função "atualizaTela", ela deveria ser declarada FORA e antes da função "atualizaTela".
+
+
+### 06 - Tudo que vai, volta! ###
+    Exercício para fazer com que a bolinha dos exemplos anteriores ande, pare no limite da tela e retorne, de mandeira contínua.
