@@ -22,3 +22,7 @@
 
 ### 07 - O bolão que deseja emagrecer! ###
     Exercício para limitar o crescimento do círculo até um determinado tamanho quando "shift" pressionado, e diminuir o tamanaho do círculo com o "alt" pressionado, mas também com limitação.
+
+
+### 08 - Desenhando com o mouse ###
+    Atividade ensina como desenhar segurando o clique do mouse, habilitando os eventos "onmousemove", "onmousedown" e "onmouseup".
