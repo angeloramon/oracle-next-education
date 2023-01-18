@@ -6,3 +6,7 @@
 
 ### 02 - Desenhando ###
     Aula mostra que não é eficaz tentar fazer uma animação (o círculo andar na tela) utilizando o "for".
+
+
+### 03 - Animações simples ###
+    Aula mostra como usar a função "setInterval()", que recebe como parâmetro a função que você deseja chamar e, depois, a quantidade de tempo em milissegundos.
