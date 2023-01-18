@@ -30,3 +30,7 @@
 
 ### 09 - Funções anônimas ###
     Atividade mostra como atribuir funções anônimas diretamente a uma variável ou a uma propriedade.
+
+
+### 10 - Desenhando com o mouse com infinitas cores ###
+    Exercicio para desenhar usando um paleta de cores, através do "document.querySelector" e do "paleta.value".
