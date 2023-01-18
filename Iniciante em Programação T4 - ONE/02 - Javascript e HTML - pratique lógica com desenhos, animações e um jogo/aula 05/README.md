@@ -1,0 +1,3 @@
+# Resumo das atividades e resolução dos exercícios da Aula 05 #
+
+### 01
