@@ -22,3 +22,7 @@
 
 ### 07 - O pulso ainda pulsa… ###
     Exercício semelhante ao anterior, mas ao invés de variar a coordenada "x" a variação é no "raio", para que o círculo cresça e diminua.
+
+
+### 08 - Para saber mais - Movendo a bolinha pelo teclado ###
+    Atividade mostra como mover a bolinha na tela de acordo com as teclas das setas pressionadas no teclado, atribuindo para cada tecla um moviemnto diferente no eixo "x" e "y".
