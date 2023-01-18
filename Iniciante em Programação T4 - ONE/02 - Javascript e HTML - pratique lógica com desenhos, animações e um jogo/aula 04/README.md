@@ -18,3 +18,7 @@
 
 ### 06 - Tudo que vai, volta! ###
     Exercício para fazer com que a bolinha dos exemplos anteriores ande, pare no limite da tela e retorne, de mandeira contínua.
+
+
+### 07 - O pulso ainda pulsa… ###
+    Exercício semelhante ao anterior, mas ao invés de variar a coordenada "x" a variação é no "raio", para que o círculo cresça e diminua.
