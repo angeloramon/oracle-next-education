@@ -4,4 +4,5 @@
     Aula para iniciarmos a construção de um site de uma barbearia.
 
 
-### 07 - Melhorando o texto 
+### 07 - Melhorando o texto ###
+    Aula mostra como dar mais destaque ao texto, com as tegs <strong>(negrito) e <em>(itálico).
