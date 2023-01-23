@@ -11,3 +11,7 @@
 ### 08 - Mudando a cor ###
     Aula mostra como fazer alteraçãoes de estilo dentro so arquivo .css.
 
+
+### 10 - Extra: Cores hexadecimais ###
+    Aula demonstra como usar o padrão hexadecimal e o padrão RGB para representar as cores no CSS.
+
