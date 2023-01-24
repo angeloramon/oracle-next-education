@@ -6,3 +6,7 @@
 
 ### 04 - Divisões de conteúdo ###
     Aula mostra como fazer divisões de conteúdo dentro do HTML, com a tag <div> e criando classes no CSS para essa divisão. Foi mostrado também como separar e alterar o a cor do plano de fundo, dentro de cada classe criada ("principal" e "beneficios"). Por fim foi acrescentada uma nova imagem para a segunda divisão criada.
+
+
+### 06 - Inline e Block ###
+    Aula mostra a diferença entre um elemento "block" (quando ma tag ocupar a largura inteira da página), "inline" (quando uma imagem não bloqueia o conteúdo, ela deixa que existam outros na lateral) e quando o elemento possui as duas condições (ele bloqueia uma largura, mas essa largura é fixa e pode ser alterada).
