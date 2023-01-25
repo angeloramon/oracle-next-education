@@ -52,8 +52,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-    /* color: #c78c19;  Isto é a cor de texto*/
-    border-color: #c78c19;
+    border-color: #c78c19; /* color: #c78c19;  Isto é a cor de texto*/
 }
 
 .produtos li:active {
@@ -77,4 +76,10 @@ nav a:hover {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    background: url(../../Assets/img/bg.jpg);
+    padding: 40px 0;
 }
