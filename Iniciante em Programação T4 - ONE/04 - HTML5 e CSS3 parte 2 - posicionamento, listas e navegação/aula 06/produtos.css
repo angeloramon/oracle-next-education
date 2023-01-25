@@ -51,6 +51,18 @@ nav a:hover {
     border-radius: 10px; /*como arradondar a borda */
 }
 
+.produtos li:hover {
+    color: #c78c19;
+}
+
+.produtos li:active {
+    color: #088c19;
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
+
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
