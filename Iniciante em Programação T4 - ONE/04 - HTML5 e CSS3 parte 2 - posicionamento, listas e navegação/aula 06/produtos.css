@@ -1,5 +1,5 @@
 header {
-    background: #BBBBBBBB;
+    background: #BBBBBB;
     padding: 20px 0;
 }
 
@@ -52,7 +52,8 @@ nav a:hover {
 }
 
 .produtos li:hover {
-    color: #c78c19;
+    /* color: #c78c19;  Isto é a cor de texto*/
+    border-color: #c78c19;
 }
 
 .produtos li:active {
