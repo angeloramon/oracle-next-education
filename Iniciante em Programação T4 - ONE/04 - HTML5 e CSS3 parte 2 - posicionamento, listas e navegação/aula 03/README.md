@@ -5,4 +5,4 @@
 
 
 ### 05 - Como funciona o posicionamento ###
-    Aula mostra como funciona o posicionamento dos elementos da página, que são: estático, que é o ponto inicial, posição padrão; relativa, que é a posição alterada a partir do ponto inicial; e absoluto, que é um posicionamento absoluto em relação a outra coisa, por exemplo, em relação à página toda, em relação ao cabeçalho.
+    Aula mostra como funciona o posicionamento dos elementos da página, que são: estático, que é o ponto inicial, posição padrão; relativa, que é a posição alterada a partir do ponto inicial; e absoluto, que altera a posição inicial em relação a outra coisa, por exemplo, em relação à página toda, em relação ao cabeçalho.
