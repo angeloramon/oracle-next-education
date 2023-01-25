@@ -6,3 +6,7 @@
 
 ### 04 - Criando listas complexas ###
     Aula mostra como criar as estrutura da página no HTML, seprarando os parágrafos dos textos e inserindo as imagens correspondentes, para cada um dos diferentes serviços oferecidos.
+
+
+### 06 - Reforçando o inline-block ###
+    Aula reforça o conceito de inline-block e mexer na parte vizual da página, colocando os produtos lado a lado e com as formatações do texto corretas, dentro do CSS.
