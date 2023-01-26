@@ -9,7 +9,7 @@
 
 
 ### 06 - Reforçando o inline-block ###
-    Aula reforça o conceito de inline-block (com o elemento do tamanho do seu conteúdo, mas regulável) e mexer na parte vizual da página, colocando os produtos lado a lado e com as formatações do texto corretas, dentro do CSS.
+    Aula reforça o conceito de inline-block (com o elemento do tamanho do seu conteúdo, mas regulável) e mexer na parte visual da página, colocando os produtos lado a lado e com as formatações do texto corretas, dentro do CSS.
 
 
 ### 08 - Ajustando o tamanho dos elementos ###
