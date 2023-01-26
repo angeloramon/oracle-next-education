@@ -9,13 +9,13 @@ header {
     margin: 0 auto;
 }
 
-nav {
+.menu {
     position: absolute;
     top: 110px;
     right: 0;
 }
 
-nav li {
+.menu-itens {
     display: inline;
     margin: 0 0 0 15px;
 }
@@ -71,7 +71,7 @@ em strong {
     padding: 20px;
 }
 
-.lista-itens {
+ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
