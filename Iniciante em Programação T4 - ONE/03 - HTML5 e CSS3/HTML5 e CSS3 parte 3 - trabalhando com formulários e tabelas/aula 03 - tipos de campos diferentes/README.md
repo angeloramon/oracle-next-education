@@ -10,3 +10,6 @@
         - A propriedade "name" só pode ser "preenchida" uma única vez, por isso que, quando eu seleciono um dos itens, ele desmarca o outro, mantendo somente um selecionado.
         - A propriedade "value" serve para criarmos o valor que meu <input> vai ter. É diretamente relacionada ao conteúdo daquele <input>, e não ao grupo dele.
 
+
+### 04 - CSS para formulários complexos ###
+    Aula mostrou as personalizações do CSS para ajustar o HTML.
