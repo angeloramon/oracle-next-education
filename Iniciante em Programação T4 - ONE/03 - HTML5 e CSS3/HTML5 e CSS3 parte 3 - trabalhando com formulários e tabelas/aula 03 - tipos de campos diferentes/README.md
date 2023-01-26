@@ -23,3 +23,7 @@
         -quando se cria um marcador com a tag <p> com a classe teste (p.teste {}) ou;
         -quando se usa o identificador (#teste {}) ou por fim;
         -quando o estilo inline é no próprio HTML, quando adiciona-se a propriedade, por exemplo (style="color: COR"), sendo esse o mais forte de todos na ordem, respectivamente.
+
+
+### 08 - Selecionando opções ###
+    Aula vios a tag <select>, que é seletor, um campo de seleção de um item e o <option>, que representa cada opção do seletor.
