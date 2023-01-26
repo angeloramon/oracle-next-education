@@ -13,3 +13,13 @@
 
 ### 04 - CSS para formulários complexos ###
     Aula mostrou as personalizações do CSS para ajustar o HTML.
+
+
+### 06 - Hierarquia no CSS ###
+    Aula mostra a hierarquias que o CSS segue (usando como exemplo o <p>arágrafo da linha 41 do HTML), quando:
+        -selecionamos no CSS um seletor de tag (p {}), sendo esse o mais fraco na ordem, ou;
+        -selecionamos dois seletores de tag (form p {}) ou;
+        -quando se inclui a classe (.teste {}) ou; 
+        -quando se cria um marcador com a tag <p> com a classe teste (p.teste {}) ou;
+        -quando se usa o identificador (#teste {}) ou por fim;
+        -quando o estilo inline é no próprio HTML, quando adiciona-se a propriedade, por exemplo (style="color: COR"), sendo esse o mais forte de todos na ordem, respectivamente.
