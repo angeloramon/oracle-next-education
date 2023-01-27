@@ -9,4 +9,4 @@
 
 
 ### 05 - Pseudo-elementos ###
-    Nessa aula vimos os pseudo-elementos, Pseudo-elementos, que são elementos que não existem no código HTML e são criados via CSS.
+    Nessa aula vimos os pseudo-elementos, que são elementos que não existem no código HTML e são criados via CSS. Exemplo: a propriedade ":after" que serve para criar um pseudo-elemento após um elemento do HTML; a propriedade ":before" que usamos para criar um elemento na página, via CSS, antes do elemento do HTML; a propriedade ":first-letter", usada no CSS para marcar a primeira letra de qualquer elemento de texto no HTML; dentre outras.
