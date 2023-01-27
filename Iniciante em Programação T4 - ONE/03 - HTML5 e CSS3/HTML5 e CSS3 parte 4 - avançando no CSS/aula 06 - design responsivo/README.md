@@ -12,5 +12,6 @@
             }            
 
 
-### 04 -  ###
+### 04 - Adaptar uma página para celular ###
+    Aula desmonstra como adaptar a página para uso em dispositivos móveis, fazendo os ajustes no CSS.
    
