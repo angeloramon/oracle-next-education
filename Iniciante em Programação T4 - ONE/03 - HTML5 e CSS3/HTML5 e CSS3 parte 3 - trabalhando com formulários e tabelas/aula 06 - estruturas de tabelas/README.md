@@ -7,4 +7,8 @@
 
 ### 04 - Tags semânticas para tabelas ###
     Aula continua com a construção de uma tabela, agora com a tag <thead>, que representa o cabeçalho da tabela e a tag th, que representa a célula do cabeçalho da tabela. Vimos também a tag tbody, que representa o corpo da tabela e a tag <tfoot> representando o rodapé da tabela.
+
+
+### 06 - Estilos na tabela ###
+    Aula mostra como estilizar a tabela com o CSS.
     
