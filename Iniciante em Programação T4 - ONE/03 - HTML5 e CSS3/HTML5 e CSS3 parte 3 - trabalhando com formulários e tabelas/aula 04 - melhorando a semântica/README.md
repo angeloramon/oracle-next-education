@@ -6,3 +6,7 @@
 
 ### 04 - Dados importantes nos inputs ###
     Aula ensima Como não permitir que um campo não seja preenchido, através do atributo "required", como exibir uma sugestão de preenchimento para os campos, através do atributo "placeholder" e como deixar uma opção marcada por padrão nos nossos "input radio" e "checkbox", através do atributo "checked".
+
+
+### 06 - Melhorando a semântica do formulário ###
+    Aula mostra como estruturar melhor o nosso código com <fieldset> e <legend> e como adicionar uma alternativa à imagem, descrevendo-a, com o atributo <alt> após o arquivo da imagem.
