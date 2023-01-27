@@ -6,3 +6,7 @@
 
 ### 05 - Adaptando o CSS ###
     Nessa aula fizemos a correções no HTML e atualizações no CSS. Vimos também como usar as medidas proporcionais com CSS, onde se quisermos que uma determinada fonte seja o dobro da fonte padrão, independe do tamanho dessa fonte, utilizamos a medida "em", a media proporcional para pixels, e nesse exemplo fica "2em". 
+
+
+### 07 - Usando o float ###
+    Vimos nessa aula como funciona a flutuação dos elementos e como modificá-la, com a propriedade "float" do CSS e como limpar o "float", com a propriedade "clear" do CSS.
