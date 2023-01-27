@@ -22,3 +22,6 @@
         main p:not(#missao) {
         }
 
+
+### 04 - Cálculos com CSS ###
+    Nessa aula aprendemos como realizar cálculos dinâmicos de posicionamento de elementos no CSS, como altura e largura. Para que a o elemento sempre ocupe a medida correta em outros dispositivos, utilizamos a propriedade "calc". O calculo que desejamos realizar é escrito entre parênteses, em que inserimos o primeiro valor, o tipo de operção e o resultado esperado. Por exemplo: "width: calc(40% - 26px);"
