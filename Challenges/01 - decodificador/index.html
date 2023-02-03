@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+    
     <head>
         <meta charset="UTF-8">
+        <title>Encriptador</title>
+
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="/Challenges/01 - decodificador/style.css"
-        <title>Encriptador</title>
+        <link rel="stylesheet" href="style.css"
+        
     </head>
+
     <body>
     
         <header>
-            <img class="logoAlura" src="/Challenges/01 - decodificador/assets/images/logoAlura.png" alt="Logo da Alura">
+            <img class="logoAlura" src="assets/images/logoAlura.png" alt="Logo da Alura">
         </header>
 
         <main>
@@ -24,8 +28,8 @@
                 </div>
         
                 <div class="botoes">
-                    <button class="btn-encriptar">Criptografar</button>
-                    <button class="btn-desencriptar">Descriptografar</button>
+                    <button class="btn-encriptar" onclick="btnEncriptar()">Criptografar</button>
+                    <button class="btn-desencriptar" onclick="btnDesencriptar()">Descriptografar</button>
                 </div>
             </section>
         
@@ -34,7 +38,7 @@
                 <button class="btn-copiar">Copiar</button>
             </section>
         </main>
-
-
+        
+        <script src="script.js"></script>   
     </body>
 </html>
