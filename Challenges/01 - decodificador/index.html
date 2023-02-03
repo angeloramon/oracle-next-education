@@ -1,19 +1,38 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Encriptador</title>
-</head>
-<body>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/Challenges/01 - decodificador/style.css"
+        <title>Encriptador</title>
+    </head>
+    <body>
     
-    <header>
+        <header>
+            <img class="logoAlura" src="/Challenges/01 - decodificador/assets/images/logoAlura.png" alt="Logo da Alura">
+        </header>
+
+        <main>
+            <section>
+                <textarea class="text-area" cols="40" rows="4" placeholder="Digite seu texto."></textarea>
         
-        <img src="/Challenges/01 - decodificador/assets/images/logoAlura.png" alt="Logo da Alura">
+                <div class="informacao">
+                    <h6>Apenas letras minúsculas e sem acento</h6>
+                </div>
         
-    </header>
+                <div class="botoes">
+                    <button class="btn-encriptar">Criptografar</button>
+                    <button class="btn-desencriptar">Descriptografar</button>
+                </div>
+            </section>
+        
+            <section>
+                <textarea class="mensagem" cols="20" rows="10"></textarea>
+                <button class="btn-copiar">Copiar</button>
+            </section>
+        </main>
 
 
-</body>
+    </body>
 </html>
