@@ -25,12 +25,21 @@ header {
 }
 
 .text-area {
+    font-size: 28px;
     border: none;
     color: #0a3871;
-    margin-top: 90px;
+    margin-top: 50px;
     text-transform: lowercase;
     margin-left: 200px;
+    padding-left: 20px;
 }
+
+::placeholder { color:#0a3871 }
+    .text-area:focus {
+        outline: black, auto;
+        border-radius: 15px;
+    }
+
 
 .logoAlura {
     margin-left: 10px;
@@ -49,13 +58,14 @@ header {
     flex-direction: row;
     align-items: flex-start;
     gap: 8px;
+    cursor: pointer;
 }
 
 .botoes button,
 .right-container button {
     font-size: 16px;
     line-height: 19px;
-}
+} 
 
 .btn-desencriptar {
     background: #d8dfe8;
@@ -68,6 +78,10 @@ header {
     width: 328px;
 }
 
+.btn-desencriptar:hover {
+    transform: scale(1.02);
+}
+
 .btn-encriptar {
     background-color: #0a3871;
     border: 1px solid #0a3871;
@@ -78,7 +92,9 @@ header {
     width: 328px;
 }
 
-
+.btn-encriptar:hover {
+    transform: scale(1.02);
+}
 
 .informacao {
     color: #495057;
@@ -86,11 +102,6 @@ header {
     width: 228px;
     height: 18px;
 }
-
-::placeholder { color:#0a3871 }
-    .text-area:focus {
-        outline: none;
-    }
 
 .right-container {
     display: flex;
@@ -153,4 +164,8 @@ header {
     height: 67px;
     width: 328px;
     background-color: transparent;
+}
+
+.btn-copiar:hover {
+    transform: scale(1.02);
 }
