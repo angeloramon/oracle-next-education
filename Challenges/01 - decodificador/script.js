@@ -8,22 +8,23 @@ const mensagem = document.querySelector(".right-container");
 // `A letra "o" é convertida para "ober"`
 // `A letra "u" é convertida para "ufat"`
 
-const textInput = document.getElementById("resposta");
-const copyButton = document.getElementsByClassName("btn-copiar");
-
-copyButton.addEventListener('click', ()=> {
-    textInput.select();
-    document.execCommand('copy');
-    alert('Texto copiado!')
-});
+async function copiaTexto() {
+    const textInput = document.getElementById('resposta').innerHTML;
+    try {
+      await navigator.clipboard.writeText(textInput);
+      alert("Texto copiado!")
+    } catch (error) {
+      alert('Deu ruim. Tente outra vez.\n', error);
+    }
+  }
+  
     
     
 
 function btnEncriptar() {
     const textoEncriptado = encriptar(textArea.value);
-    console.log(textoEncriptado);
     mensagem.innerHTML = `<p id="resposta">${textoEncriptado}<p>
-<button class="btn-copiar">Copiar</button>`;
+<button id="btn-copiar" onclick="copiaTexto()">Copiar</button>`;
     textArea.value = "";
 }
 
@@ -44,7 +45,7 @@ function encriptar(stringEncriptada) {
 function btnDesencriptar() {
     const textoDesencriptado = desencriptar(textArea.value);
     mensagem.innerHTML = `<p id="resposta">${textoDesencriptado}<p>
-    <button class="btn-copiar">Copiar</button>`;
+    <button id="btn-copiar">Copiar</button>`;
     textArea.value = "";
 }
 

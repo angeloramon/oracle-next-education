@@ -156,7 +156,16 @@ header {
     outline: none;
 }
 
-.btn-copiar {
+#resposta {
+    font-size: 28px;
+    border: none;
+    color: #0a3871;
+    margin-top: 50px;
+    
+  
+}
+
+#btn-copiar {
     border: 1px solid #0a3871;
     border-radius: 24px;
     color: #0a3871;
@@ -166,7 +175,7 @@ header {
     background-color: transparent;
 }
 
-.btn-copiar:hover {
+#btn-copiar:hover {
     transform: scale(1.02);
 }
 
