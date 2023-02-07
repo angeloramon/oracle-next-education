@@ -8,6 +8,17 @@ const mensagem = document.querySelector(".right-container");
 // `A letra "o" é convertida para "ober"`
 // `A letra "u" é convertida para "ufat"`
 
+const textInput = document.getElementById("resposta");
+const copyButton = document.getElementsByClassName("btn-copiar");
+
+copyButton.addEventListener('click', ()=> {
+    textInput.select();
+    document.execCommand('copy');
+    alert('Texto copiado!')
+});
+    
+    
+
 function btnEncriptar() {
     const textoEncriptado = encriptar(textArea.value);
     console.log(textoEncriptado);
