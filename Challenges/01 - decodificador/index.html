@@ -9,36 +9,49 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="style.css"
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+        
+        <link rel="stylesheet" href="reset.css"> 
+        <link rel="stylesheet" href="style.css">
         
     </head>
 
     <body>
-    
-        <header>
-            <img class="logoAlura" src="assets/images/logoAlura.png" alt="Logo da Alura">
-        </header>
+    <main>
+        <section class="left-container">
 
-        <main>
-            <section>
-                <textarea class="text-area" cols="40" rows="4" placeholder="Digite seu texto."></textarea>
-        
+            <header>
+                <img class="logoAlura" src="assets/images/logoAlura.png" alt="Logo da Alura">
+            </header>
+
+            <textarea class="text-area" id="texto" cols="40" rows="8" placeholder="Digite aqui seu texto"></textarea>
+
+            <div class="info-btn">
                 <div class="informacao">
-                    <h6>Apenas letras minúsculas e sem acento</h6>
+                    <h6>&#9888; Apenas letras minúsculas e sem acento</h6>
                 </div>
-        
+
                 <div class="botoes">
-                    <button class="btn-encriptar" onclick="btnEncriptar()">Criptografar</button>
-                    <button class="btn-desencriptar" onclick="btnDesencriptar()">Descriptografar</button>
+                    <button class="btn-encriptar" onclick="btnEncriptar()">
+                        Criptografar
+                    </button>
+                    <button class="btn-desencriptar" onclick="btnDesencriptar()">
+                        Descriptografar
+                    </button>
                 </div>
-            </section>
-        
-            <section>
-                <textarea class="mensagem" cols="20" rows="10"></textarea>
-                <button class="btn-copiar">Copiar</button>
-            </section>
-        </main>
-        
+            </div>
+
+        </section>
+
+        <section class="right-container">
+
+            <img src="assets/images/boneco.png" alt="boneco">
+            <h2>Nenhuma mensagem encontrada</h2>
+            <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+
+        </section>
+    </main>
+
         <script src="script.js"></script>   
     </body>
 </html>

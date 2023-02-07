@@ -1,5 +1,5 @@
-const textArea = document.querySelector(".text-area");
-const mensagem = document.querySelector(".mensagem");
+const textArea = document.querySelector("#texto");
+const mensagem = document.querySelector(".right-container");
 
 
 // `A letra "e" é convertida para "enter"`
@@ -10,7 +10,9 @@ const mensagem = document.querySelector(".mensagem");
 
 function btnEncriptar() {
     const textoEncriptado = encriptar(textArea.value);
-    mensagem.value = textoEncriptado;
+    console.log(textoEncriptado);
+    mensagem.innerHTML = `<p id="resposta">${textoEncriptado}<p>
+<button class="btn-copiar">Copiar</button>`;
     textArea.value = "";
 }
 
@@ -30,7 +32,8 @@ function encriptar(stringEncriptada) {
 
 function btnDesencriptar() {
     const textoDesencriptado = desencriptar(textArea.value);
-    mensagem.value = textoDesencriptado;
+    mensagem.innerHTML = `<p id="resposta">${textoDesencriptado}<p>
+    <button class="btn-copiar">Copiar</button>`;
     textArea.value = "";
 }
 

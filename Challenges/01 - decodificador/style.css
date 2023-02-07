@@ -6,16 +6,22 @@
     line-height: 150%;
 }
 
-.logoAlura {
-    margin-left: 10px;
-    padding-top: 10px;
-    width: 2%;
+main {
+    width: auto;
+	height: auto;
+	display: flex;
+	flex-direction: row;
+    padding: 40px;
 }
 
-main {
+header {
+    margin-left: 48px;
+}
+
+.left-container {
     display: flex;
-    margin-bottom: 50px;
-    margin-left: 80px;
+    flex-direction: column;
+    width: 70%;
 }
 
 .text-area {
@@ -23,32 +29,32 @@ main {
     color: #0a3871;
     margin-top: 90px;
     text-transform: lowercase;
+    margin-left: 200px;
 }
 
-::placeholder { color:#0a3871 }
-    .text-area:focus {
-        outline: none;
-    }
-
-.mensagem {
-    background-color: white;
-    background-image: url(assets/images/boneco.png);
-    background-repeat: no-repeat;
-    border: none;
-    border-radius: 24px;
-    color: #0a3871;
-    margin-left: 98px;
-    margin-top: 20px;
-    padding-left: 20px;
-    position: fixed;
+.logoAlura {
+    margin-left: 10px;
+    padding-top: 10px;
 }
-.mensagem:focus {
-    outline: none;
+
+.info-btn {
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
 }
 
 .botoes {
     display: flex;
     margin-top: 18px;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.botoes button,
+.right-container button {
+    font-size: 16px;
+    line-height: 19px;
 }
 
 .btn-desencriptar {
@@ -72,19 +78,79 @@ main {
     width: 328px;
 }
 
+
+
+.informacao {
+    color: #495057;
+    font-size: 12px;
+    width: 228px;
+    height: 18px;
+}
+
+::placeholder { color:#0a3871 }
+    .text-area:focus {
+        outline: none;
+    }
+
+.right-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    width: 30%;
+    max-height: 944px;
+    background-color: white;
+    border-radius: 24px;
+    color: #0a3871;
+    margin-left: 98px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.right-container img {
+    background-color: transparent;
+}
+
+.right-container p,
+.right-container h2 {
+    color: black;
+    background-color: transparent;
+    text-align: center;
+    font-style: normal;
+}
+
+.right-container h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 120%;
+    color: #343A40;
+}
+
+.right-container p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #495057;
+}
+
+
+.mensagem {
+    background-color: white;
+    border: none;
+    /* resize: none; */
+}
+
+.mensagem:focus {
+    outline: none;
+}
+
 .btn-copiar {
     border: 1px solid #0a3871;
     border-radius: 24px;
     color: #0a3871;
     cursor: pointer;
     height: 67px;
-    margin-left: 108px;
-    margin-top: 402px;
-    position: absolute;
     width: 328px;
-}
-
-.informacao {
-    color: #495057;
-    font-size: 18px;
+    background-color: transparent;
 }
